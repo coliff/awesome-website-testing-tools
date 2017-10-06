@@ -9,6 +9,7 @@ Responsive Layout
 
 Cross Browser Testing
 - https://www.browserstack.com/screenshots
+- https://developer.microsoft.com/en-us/microsoft-edge/tools/screenshots/
 
 Page Speed
 - https://developers.google.com/speed/pagespeed/insights/
@@ -18,3 +19,9 @@ Performance
 
 Performance, SEO, Social, Links, Popularity
 - http://nibbler.silktide.com/
+
+Auditing, performance metrics, and best practices for Progressive Web Apps
+- https://github.com/GoogleChrome/lighthouse
+
+Accessibility, security, interoperability and more
+- https://github.com/sonarwhal/sonar
