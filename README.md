@@ -25,3 +25,9 @@ Auditing, performance metrics, and best practices for Progressive Web Apps
 
 Accessibility, security, interoperability and more
 - https://github.com/sonarwhal/sonar
+
+OpenGraph
+- https://developers.facebook.com/tools/debug/sharing/
+
+Twitter Cards
+- 
