@@ -1,4 +1,4 @@
-# web-testing-tools
+# Web Testing Tools
 Resource of web-based testing tools
 
 Markup Validation
@@ -30,4 +30,4 @@ OpenGraph
 - https://developers.facebook.com/tools/debug/sharing/
 
 Twitter Cards
-- 
+- https://cards-dev.twitter.com/validator
