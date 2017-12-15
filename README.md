@@ -11,6 +11,8 @@ Cross Browser Testing
 - https://www.browserstack.com/screenshots
 - https://developer.microsoft.com/en-us/microsoft-edge/tools/screenshots/
 
+## Performance
+
 Page Speed
 - https://developers.google.com/speed/pagespeed/insights/
 
@@ -26,8 +28,13 @@ Auditing, performance metrics, and best practices for Progressive Web Apps
 Accessibility, security, interoperability and more
 - https://github.com/sonarwhal/sonar
 
+## Social Media
+
 OpenGraph
 - https://developers.facebook.com/tools/debug/sharing/
 
 Twitter Cards
 - https://cards-dev.twitter.com/validator
+
+
+## Security
