@@ -38,3 +38,5 @@ Twitter Cards
 
 
 ## Security
+
+- https://www.ssllabs.com/ssltest
