@@ -64,3 +64,12 @@ Structured Data (Schema.org) Testing Tool
 
 Google Rich Results Test
 - https://search.google.com/test/rich-results
+
+
+## Mobile Friendliness
+
+Bing Webmaster Mobile Friendliness Test Tool
+- https://www.bing.com/webmaster/tools/mobile-friendliness
+
+Google Mobile Friendly Test Tool
+- https://search.google.com/test/mobile-friendly
