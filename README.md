@@ -1,4 +1,4 @@
-# Web Testing Tools
+# ✔️ Web Testing Tools
 
 Resource of web-based testing tools
 
@@ -6,7 +6,7 @@ Markup Validation
 - https://validator.w3.org
 
 
-## General & Multipurpose
+## 💻 General & Multipurpose
 
 Performance, SEO, Social, Links, Popularity
 - http://nibbler.silktide.com/
@@ -18,7 +18,7 @@ Accessibility, security, interoperability and more
 - https://sonarwhal.com/
 
 
-## Design & Layout
+## 📐 Design & Layout
 
 Responsive Layout
 - https://www.browserstack.com/responsive
@@ -30,7 +30,7 @@ Free screenshots of webpages in a variety of browsers and devices
 - https://developer.microsoft.com/en-us/microsoft-edge/tools/screenshots/
 
 
-## Performance
+## ⚡ Performance
 
 Page Speed
 - https://developers.google.com/speed/pagespeed/insights/
@@ -48,7 +48,7 @@ GTMetrix PageSpeed Score
 - https://gtmetrix.com/
 
 
-## Security
+## 🔐 Security
 
 SSL Server Test
 - https://www.ssllabs.com/ssltest
@@ -57,7 +57,7 @@ Content Security Policy (CSP) Validator
 - https://cspvalidator.org
 
 
-## Social Media Tags and Schema Markup
+## 🙂 Social Media Tags and Schema Markup
 
 OpenGraph (Facebook Login required)
 - https://developers.facebook.com/tools/debug/sharing/
@@ -75,7 +75,7 @@ Google Rich Results Test
 - https://search.google.com/test/rich-results
 
 
-## Mobile Friendliness
+## 📱 Mobile Friendliness
 
 Bing Webmaster Mobile Friendliness Test Tool
 - https://www.bing.com/webmaster/tools/mobile-friendliness
