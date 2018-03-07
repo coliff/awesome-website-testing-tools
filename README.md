@@ -38,6 +38,15 @@ Page Speed
 Performance
 - https://www.webpagetest.org/
 
+Pingdom Website Speed Test
+- https://tools.pingdom.com/
+
+Google's Test Your Mobile Speed
+- https://testmysite.withgoogle.com
+
+GTMetrix PageSpeed Score
+- https://gtmetrix.com/
+
 
 ## Security
 
