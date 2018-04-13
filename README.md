@@ -9,7 +9,7 @@ Markup Validation
 ## 💻 General & Multipurpose
 
 Performance, SEO, Social, Links, Popularity
-- http://nibbler.silktide.com/
+- https://insites.com/
 
 Auditing, performance metrics, and best practices for Progressive Web Apps (Chome Devtools and Chrome extension)
 - https://github.com/GoogleChrome/lighthouse
