@@ -74,6 +74,9 @@ Structured Data (Schema.org) Testing Tool
 Google Rich Results Test
 - https://search.google.com/test/rich-results
 
+Rich Snippet Previews (WhatsApp, Telegram, Skype, Facebook, Twitter, LinkedIn, Google+)
+- https://richpreview.com/
+
 
 ## 📱 Mobile Friendliness
 
