@@ -11,11 +11,11 @@ Markup Validation
 Performance, SEO, Social, Links, Popularity
 - https://insites.com/
 
-Auditing, performance metrics, and best practices for Progressive Web Apps (Chome Devtools and Chrome extension)
+Auditing, performance metrics, and best practices for Progressive Web Apps (Chrome Devtools and Chrome extension)
 - https://github.com/GoogleChrome/lighthouse
 
 Accessibility, security, interoperability and more
-- https://sonarwhal.com/
+- https://webhint.io/#scanner-input
 
 
 ## 📐 Design & Layout
