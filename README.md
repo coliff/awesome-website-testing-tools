@@ -8,6 +8,9 @@ Markup Validation
 
 ## 💻 General & Multipurpose
 
+Browser extension that tests for SEO, speed and security best practices. Crawls your site checking multiple pages at once.
+- https://www.checkbot.io/
+
 Performance, SEO, Social, Links, Popularity
 - https://insites.com/
 
