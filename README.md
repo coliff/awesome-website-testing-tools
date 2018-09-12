@@ -54,7 +54,7 @@ GTMetrix PageSpeed Score
 ## 🔐 Security
 
 SSL Server Test
-- https://www.ssllabs.com/ssltest
+- https://www.ssllabs.com/ssltest/
 
 Content Security Policy (CSP) Validator
 - https://cspvalidator.org
@@ -66,7 +66,7 @@ OpenGraph (Facebook Login required)
 - https://developers.facebook.com/tools/debug/sharing/
 
 Open Graph Check
-- http://opengraphcheck.com/
+- https://opengraphcheck.com/
 
 Twitter Cards (Twitter Login required)
 - https://cards-dev.twitter.com/validator
