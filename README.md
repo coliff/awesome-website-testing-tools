@@ -1,3 +1,10 @@
+
+[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/coliff/web-testing-tools/master/LICENSE)
+[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/coliff)
+[![github-stars-image](https://img.shields.io/github/stars/coliff/web-testing-tools.svg?label=github%20stars)](https://github.com/coliff/web-testing-tools)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
 # ✔️ Web Testing Tools
 
 Resource of web-based testing tools
