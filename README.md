@@ -87,6 +87,9 @@ Google Rich Results Test
 Rich Snippet Previews (WhatsApp, Telegram, Skype, Facebook, Twitter, LinkedIn, Google+)
 - https://richpreview.com/
 
+Pinterest Rich Pins Validator
+- https://developers.pinterest.com/tools/url-debugger/
+
 
 ## 📱 Mobile Friendliness
 
