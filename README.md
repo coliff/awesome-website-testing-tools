@@ -66,6 +66,9 @@ SSL Server Test
 Content Security Policy (CSP) Validator
 - https://cspvalidator.org
 
+Test security headers
+- https://observatory.mozilla.org/
+
 
 ## 🙂 Social Media Tags and Schema Markup
 
