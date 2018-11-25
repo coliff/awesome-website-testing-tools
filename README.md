@@ -66,7 +66,13 @@ SSL Server Test
 Content Security Policy (CSP) Validator
 - https://cspvalidator.org
 
-Test security headers
+HSTS Preload
+- https://hstspreload.org
+
+Security Headers
+- https://securityheaders.com
+
+Test SSL, security headers and more
 - https://observatory.mozilla.org/
 
 
