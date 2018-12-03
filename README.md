@@ -5,9 +5,19 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-# ✔️ Web Testing Tools
+# ✔️ Website Testing Tools & Audits
 
 Resource of web-based testing tools
+
+## Contents
+
+- [General & Multipurpose](#-general--multipurpose)
+- [Design & Layout](#-design--layout)
+- [Performance](#-performance)
+- [Security](#-security)
+- [Social Media Tags and Schema Markup](#-social-media-tags-and-schema-markup)
+- [Mobile Friendliness](#-mobile-friendliness)
+- [Broken Links](#-broken-links)
 
 ## 💻 General & Multipurpose
 
