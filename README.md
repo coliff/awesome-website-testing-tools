@@ -9,14 +9,13 @@
 
 Resource of web-based testing tools
 
-Markup Validation
-- https://validator.w3.org
-
-
 ## 💻 General & Multipurpose
 
 Browser extension that tests for SEO, speed and security best practices. Crawls your site checking multiple pages at once.
 - https://a.paddle.com/v2/click/33762/34995?link=1044
+
+Markup Validation
+- https://validator.w3.org
 
 Performance, SEO, Social, Links, Popularity
 - https://insites.com/
@@ -113,3 +112,10 @@ Google Mobile Friendly Test Tool
 
 Dead Link Checker
 - https://www.deadlinkchecker.com/
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Christian Oliff](https://christianoliff.com) has waived all copyright and related or neighboring rights to this work.
