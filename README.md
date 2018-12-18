@@ -36,6 +36,7 @@ Auditing, performance metrics, and best practices for Progressive Web Apps (Chro
 Accessibility, security, interoperability and more
 - https://webhint.io/#scanner-input
 
+<sub>[⇧ back to top](#contents)</sub>
 
 ## 📐 Design & Layout
 
@@ -48,6 +49,7 @@ Cross Browser Testing
 Free screenshots of webpages in a variety of browsers and devices
 - https://developer.microsoft.com/en-us/microsoft-edge/tools/screenshots/
 
+<sub>[⇧ back to top](#contents)</sub>
 
 ## ⚡ Performance
 
@@ -66,6 +68,7 @@ Google's Test Your Mobile Speed
 GTMetrix PageSpeed Score
 - https://gtmetrix.com/
 
+<sub>[⇧ back to top](#contents)</sub>
 
 ## 🔐 Security
 
@@ -84,6 +87,7 @@ Security Headers
 Test SSL, security headers and more
 - https://observatory.mozilla.org/
 
+<sub>[⇧ back to top](#contents)</sub>
 
 ## 🙂 Social Media Tags and Schema Markup
 
@@ -108,6 +112,7 @@ Rich Snippet Previews (WhatsApp, Telegram, Skype, Facebook, Twitter, LinkedIn, G
 Pinterest Rich Pins Validator
 - https://developers.pinterest.com/tools/url-debugger/
 
+<sub>[⇧ back to top](#contents)</sub>
 
 ## 📱 Mobile Friendliness
 
@@ -117,15 +122,17 @@ Bing Webmaster Mobile Friendliness Test Tool
 Google Mobile Friendly Test Tool
 - https://search.google.com/test/mobile-friendly
 
+<sub>[⇧ back to top](#contents)</sub>
 
 ## 🔗 Broken Links
 
 Dead Link Checker
 - https://www.deadlinkchecker.com/
 
+<sub>[⇧ back to top](#contents)</sub>
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Christian Oliff](https://christianoliff.com) has waived all copyright and related or neighboring rights to this work.
