@@ -68,6 +68,9 @@ Google's Test Your Mobile Speed
 GTMetrix PageSpeed Score
 - https://gtmetrix.com/
 
+Speedrank - Displays Lighthouse reports over time
+- https://speedrank.app/
+
 <sub>[⇧ back to top](#contents)</sub>
 
 ## 🔐 Security
