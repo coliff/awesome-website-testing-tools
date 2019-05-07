@@ -106,9 +106,6 @@ Structured Data (Schema.org) Testing Tool
 Google Rich Results Test
 - https://search.google.com/test/rich-results
 
-Rich Snippet Previews (WhatsApp, Telegram, Skype, Facebook, Twitter, LinkedIn, Google+)
-- https://richpreview.com/
-
 Pinterest Rich Pins Validator
 - https://developers.pinterest.com/tools/url-debugger/
 
