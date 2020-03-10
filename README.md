@@ -43,9 +43,6 @@ Responsive Layout
 Cross Browser Testing
 - https://www.browserstack.com/screenshots
 
-Free screenshots of webpages in a variety of browsers and devices
-- https://developer.microsoft.com/en-us/microsoft-edge/tools/screenshots/
-
 <sub>[⇧ back to top](#contents)</sub>
 
 ## ⚡ Performance
