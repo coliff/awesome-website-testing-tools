@@ -62,6 +62,9 @@ Google's Test Your Mobile Speed
 GTMetrix PageSpeed Score
 - https://gtmetrix.com/
 
+Screpy Pagespeed Analysis & Monitoring
+- https://screpy.com
+
 <sub>[⇧ back to top](#contents)</sub>
 
 ## 🔐 Security
