@@ -88,9 +88,6 @@ Test SSL, security headers and more
 OpenGraph (Facebook Login required)
 - https://developers.facebook.com/tools/debug/sharing/
 
-Open Graph Check
-- https://opengraphcheck.com/
-
 Twitter Cards (Twitter Login required)
 - https://cards-dev.twitter.com/validator
 
