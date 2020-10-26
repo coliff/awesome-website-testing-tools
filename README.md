@@ -91,9 +91,6 @@ OpenGraph (Facebook Login required)
 Twitter Cards (Twitter Login required)
 - https://cards-dev.twitter.com/validator
 
-Structured Data (Schema.org) Testing Tool
-- https://search.google.com/structured-data/testing-tool/u/0/
-
 Google Rich Results Test
 - https://search.google.com/test/rich-results
 
