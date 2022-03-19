@@ -47,8 +47,8 @@ Cross Browser Testing
 
 ## ⚡ Performance
 
-Page Speed
-- https://developers.google.com/speed/pagespeed/insights/
+Google PageSpeed Insights
+- https://pagespeed.web.dev/
 
 Performance
 - https://www.webpagetest.org/
