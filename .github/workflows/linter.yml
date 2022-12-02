@@ -4,11 +4,14 @@ on:
   push:
     branches-ignore:
       - "dependabot/**"
-      
+  pull_request:
+    branches: [main]
+
 jobs:
   build:
     name: Lint Code Base
     runs-on: ubuntu-latest
+    if: ${{ github.actor != 'dependabot[bot]' }}
 
     steps:
       - name: Checkout Code
@@ -18,5 +21,7 @@ jobs:
         uses: github/super-linter/slim@v4
         env:
           DEFAULT_BRANCH: main
-          VALIDATE_ALL_CODEBASE: false
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LOG_LEVEL: NOTICE
+          VALIDATE_ALL_CODEBASE: false
+          SUPPRESS_POSSUM: true
