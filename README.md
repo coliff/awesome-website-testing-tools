@@ -114,6 +114,9 @@ Google Mobile Friendly Test Tool
 Dead Link Checker
 - https://www.deadlinkchecker.com/
 
+Broken Link Checker
+- https://ahrefs.com/broken-link-checker
+
 <sub>[⇧ back to top](#contents)</sub>
 
 ## License
