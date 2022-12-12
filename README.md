@@ -62,6 +62,10 @@ Google's Test Your Mobile Speed
 GTMetrix PageSpeed Score
 - https://gtmetrix.com/
 
+DebugBear Website Speed Test
+- https://www.debugbear.com/test/website-speed
+
+
 <sub>[⇧ back to top](#contents)</sub>
 
 ## 🔐 Security
