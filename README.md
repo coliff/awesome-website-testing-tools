@@ -92,9 +92,6 @@ Test SSL, security headers and more
 OpenGraph (Facebook Login required)
 - https://developers.facebook.com/tools/debug/sharing/
 
-Twitter Cards (Twitter Login required)
-- https://cards-dev.twitter.com/validator
-
 Google Rich Results Test
 - https://search.google.com/test/rich-results
 
