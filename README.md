@@ -1,5 +1,5 @@
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-[![github-stars-image](https://img.shields.io/github/stars/coliff/awesome-website-testing-tools.svg?label=github%20stars)](https://github.com/coliff/awesome-website-testing-tools)
+[![github-stars-image](https://img.shields.io/github/stars/coliff/awesome-website-testing-tools.svg?label=GitHub%20Stars)](https://github.com/coliff/awesome-website-testing-tools)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 # ✔️ Website Testing Tools & Audits
@@ -92,8 +92,8 @@ Test SSL, security headers and more
 OpenGraph (Facebook Login required)
 - https://developers.facebook.com/tools/debug/sharing/
 
-Twitter Cards (Twitter Login required)
-- https://cards-dev.twitter.com/validator
+X (Twitter) Cards (Login required)
+- https://cards-dev.x.com/validator
 
 Google Rich Results Test
 - https://search.google.com/test/rich-results
