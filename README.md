@@ -56,9 +56,6 @@ Performance
 Pingdom Website Speed Test
 - https://tools.pingdom.com/
 
-Google's Test Your Mobile Speed
-- https://testmysite.withgoogle.com
-
 GTMetrix PageSpeed Score
 - https://gtmetrix.com/
 
@@ -92,9 +89,6 @@ Test SSL, security headers and more
 OpenGraph (Facebook Login required)
 - https://developers.facebook.com/tools/debug/sharing/
 
-X (Twitter) Cards (Login required)
-- https://cards-dev.x.com/validator
-
 Google Rich Results Test
 - https://search.google.com/test/rich-results
 
@@ -107,9 +101,6 @@ Pinterest Rich Pins Validator
 
 Bing Webmaster Mobile Friendliness Test Tool
 - https://www.bing.com/webmaster/tools/mobile-friendliness
-
-Google Mobile Friendly Test Tool
-- https://search.google.com/test/mobile-friendly
 
 <sub>[⇧ back to top](#contents)</sub>
 
