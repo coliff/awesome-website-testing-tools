@@ -33,6 +33,9 @@ Auditing, performance metrics, and best practices for Progressive Web Apps (Chro
 Accessibility, security, interoperability and more
 - https://webhint.io/#scanner-input
 
+Codeless end-to-end web test automation
+- https://bugbug.io
+
 <sub>[⇧ back to top](#contents)</sub>
 
 ## 📐 Design & Layout
