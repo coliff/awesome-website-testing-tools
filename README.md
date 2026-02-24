@@ -15,6 +15,7 @@ Resource of web-based testing tools
 - [Social Media Tags and Schema Markup](#-social-media-tags-and-schema-markup)
 - [Mobile Friendliness](#-mobile-friendliness)
 - [Broken Links](#-broken-links)
+- [Accessibility](#-accessibility)
 
 ## 💻 General & Multipurpose
 
@@ -111,6 +112,19 @@ Dead Link Checker
 
 Broken Link Checker
 - https://ahrefs.com/broken-link-checker
+
+<sub>[⇧ back to top](#contents)</sub>
+
+## ♿ Accessibility
+
+WAVE Web Accessibility Evaluation Tool
+- https://wave.webaim.org/
+
+RatedWithAI - AI-powered WCAG 2.2 accessibility scanner
+- https://ratedwithai.com/
+
+axe DevTools Browser Extension
+- https://www.deque.com/axe/devtools/
 
 <sub>[⇧ back to top](#contents)</sub>
 
