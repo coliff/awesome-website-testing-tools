@@ -120,12 +120,6 @@ Broken Link Checker
 WAVE Web Accessibility Evaluation Tool
 - https://wave.webaim.org/
 
-RatedWithAI - AI-powered WCAG 2.2 accessibility scanner
-- https://ratedwithai.com/
-
-axe DevTools Browser Extension
-- https://www.deque.com/axe/devtools/
-
 <sub>[⇧ back to top](#contents)</sub>
 
 ## License
