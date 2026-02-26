@@ -19,7 +19,7 @@ Resource of web-based testing tools
 ## 💻 General & Multipurpose
 
 Free all-in-one website health scanner for SEO, performance, accessibility, and best practices. AI-powered reports with no signup required.
-- https://pageguard.qiudeqiu.workers.dev
+- https://pageguard.org
 
 Browser extension that tests for SEO, speed and security best practices. Crawls your site checking multiple pages at once.
 - https://a.paddle.com/v2/click/33762/34995?link=1044
@@ -66,7 +66,7 @@ DebugBear Website Speed Test
 - https://www.debugbear.com/test/website-speed
 
 PageGuard - Free all-in-one website health scanner (performance, SEO, accessibility, best practices + AI reports)
-- https://pageguard.qiudeqiu.workers.dev
+- https://pageguard.org
 
 
 <sub>[⇧ back to top](#contents)</sub>
