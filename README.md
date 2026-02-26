@@ -65,6 +65,9 @@ GTMetrix PageSpeed Score
 DebugBear Website Speed Test
 - https://www.debugbear.com/test/website-speed
 
+PageGuard - Free all-in-one website health scanner (performance, SEO, accessibility, best practices + AI reports)
+- https://pageguard.qiudeqiu.workers.dev
+
 
 <sub>[⇧ back to top](#contents)</sub>
 
