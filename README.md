@@ -19,6 +19,9 @@ Resource of web-based testing tools
 
 ## 💻 General & Multipurpose
 
+Free all-in-one website health scanner — SEO, performance, accessibility & best practices with AI fix suggestions
+- https://pageguard.org
+
 Browser extension that tests for SEO, speed and security best practices. Crawls your site checking multiple pages at once.
 - https://a.paddle.com/v2/click/33762/34995?link=1044
 
