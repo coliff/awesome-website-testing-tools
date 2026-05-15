@@ -49,6 +49,7 @@ Cross Browser Testing
 ## ⚡ Performance
 
 Google PageSpeed Insights
+- [WebCoreLab](https://webcorelab.com) — 272-check automated website audit: performance, SEO, accessibility, schema, CWV. AI-powered. Toronto.
 - https://pagespeed.web.dev/
 
 Performance
