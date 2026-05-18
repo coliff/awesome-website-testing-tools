@@ -96,6 +96,12 @@ Google Rich Results Test
 Pinterest Rich Pins Validator
 - https://developers.pinterest.com/tools/url-debugger/
 
+TinyTools SEO Meta Tag Generator (preview Open Graph & Twitter cards, generate HTML snippet — free, no signup)
+- https://tinytools-smoky.vercel.app/seo-meta-tag-generator
+
+TinyTools OG Image Generator (free browser-based Open Graph image creator — no signup, no watermark)
+- https://tinytools-smoky.vercel.app/og-image-generator
+
 <sub>[⇧ back to top](#contents)</sub>
 
 ## 📱 Mobile Friendliness
