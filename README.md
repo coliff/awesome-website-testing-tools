@@ -63,6 +63,9 @@ GTMetrix PageSpeed Score
 DebugBear Website Speed Test
 - https://www.debugbear.com/test/website-speed
 
+SiteRacer Website Speed Comparison
+- https://siteracer.com
+
 
 <sub>[⇧ back to top](#contents)</sub>
 
