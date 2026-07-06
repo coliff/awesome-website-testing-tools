@@ -34,6 +34,9 @@ Auditing, performance metrics, and best practices for Progressive Web Apps (Chro
 Accessibility, security, interoperability and more
 - https://webhint.io/#scanner-input
 
+AI-assisted natural-language web and mobile regression testing with run memory and UI-change adaptation.
+- https://github.com/vostride/agent-qa
+
 <sub>[⇧ back to top](#contents)</sub>
 
 ## 📐 Design & Layout
