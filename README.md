@@ -62,6 +62,9 @@ GTMetrix PageSpeed Score
 
 DebugBear Website Speed Test
 - https://www.debugbear.com/test/website-speed
+Screpy
+- https://screpy.com/
+
 
 
 <sub>[⇧ back to top](#contents)</sub>
