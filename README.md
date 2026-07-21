@@ -17,108 +17,76 @@ Resource of web-based testing tools
 - [Broken Links](#-broken-links)
 - [Accessibility](#-accessibility)
 
-## 💻 General & Multipurpose
+## All-in-one
 
-Browser extension that tests for SEO, speed and security best practices. Crawls your site checking multiple pages at once.
-- https://a.paddle.com/v2/click/33762/34995?link=1044
+- Google Lighthouse (Desktop)
+  https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Fexample.com
 
-Markup Validation
-- https://validator.w3.org
+- Google Lighthouse (Mobile)
+  https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Fexample.com
 
-Performance, SEO, Social, Links, Popularity
-- https://insites.com/
+## Accessibility
 
-Auditing, performance metrics, and best practices for Progressive Web Apps (Chrome Devtools and Chrome extension)
-- https://github.com/GoogleChrome/lighthouse
+- WAVE Web Accessibility Evaluation Tool
+  https://wave.webaim.org/report#/https://example.com
 
-Accessibility, security, interoperability and more
-- https://webhint.io/#scanner-input
+## Archive
 
-<sub>[⇧ back to top](#contents)</sub>
+- WayBackMachine (check previous versions of the site)
+  https://web.archive.org/web/*/https://example.com/
 
-## 📐 Design & Layout
+## Broken Links
 
-Responsive Layout
-- https://www.browserstack.com/responsive
+- Ahrefs
+  https://ahrefs.com/broken-link-checker/?input=example.com&mode=subdomains
 
-Cross Browser Testing
-- https://www.browserstack.com/screenshots
+## Performance
 
-<sub>[⇧ back to top](#contents)</sub>
+- Google PageSpeed Results
+  https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fexample.com%2F
 
-## ⚡ Performance
+## SEO & Traffic
 
-Google PageSpeed Insights
-- https://pagespeed.web.dev/
+- Google Index (search results of just your domain)
+  https://www.google.com/search?q=site:https%3A%2F%2Fexample.com
 
-Performance
-- https://www.webpagetest.org/
+- Google Rich Test Results
+  https://search.google.com/test/rich-results?url=https%3A%2F%2Fexample.com
 
-Pingdom Website Speed Test
-- https://tools.pingdom.com/
+- Schema.org Markup Validator (JSON-LD, Microdata)
+  https://validator.schema.org/#url=https%3A%2F%2Fexample.com%2F
 
-GTMetrix PageSpeed Score
-- https://gtmetrix.com/
+- SimilarWeb (Traffic)
+  https://www.similarweb.com/website/example.com/#overview
 
-DebugBear Website Speed Test
-- https://www.debugbear.com/test/website-speed
+## Security / Technical / Domain
 
+- Built With (Technology Profile)
+  https://builtwith.com/example.com
 
-<sub>[⇧ back to top](#contents)</sub>
+- HSTS Preload Status
+  https://hstspreload.org/?domain=example.com#submission-form
 
-## 🔐 Security
+- HTTP Observatory (security Headers)
+  https://developer.mozilla.org/en-US/observatory/analyze?host=example.com
 
-SSL Server Test
-- https://www.ssllabs.com/ssltest/
+- Is Down for Everyone or Just Me? (Check outages)
+  https://downforeveryoneorjustme.com/example.com
 
-Content Security Policy (CSP) Validator
-- https://cspvalidator.org
+- Security Headers
+  https://securityheaders.com/?q=https%3A%2F%2Fexample.com%2F&followRedirects=on
 
-HSTS Preload
-- https://hstspreload.org
+- SSL Labs Server Test
+  https://www.ssllabs.com/ssltest/analyze.html?viaform=on&d=example.com&hideResults=on
 
-Security Headers
-- https://securityheaders.com
+- WhatsMyDNS.net (DNS Propagation Checker)
+  https://www.whatsmydns.net/#A/example.com
 
-Test SSL, security headers and more
-- https://observatory.mozilla.org/
+- WebSniffer (Lookup HTTP headers of any web page)
+  https://websniffer.com/?url=https://example.com/en
 
-<sub>[⇧ back to top](#contents)</sub>
-
-## 🙂 Social Media Tags and Schema Markup
-
-OpenGraph (Facebook Login required)
-- https://developers.facebook.com/tools/debug/sharing/
-
-Google Rich Results Test
-- https://search.google.com/test/rich-results
-
-Pinterest Rich Pins Validator
-- https://developers.pinterest.com/tools/url-debugger/
-
-<sub>[⇧ back to top](#contents)</sub>
-
-## 📱 Mobile Friendliness
-
-Bing Webmaster Mobile Friendliness Test Tool
-- https://www.bing.com/webmaster/tools/mobile-friendliness
-
-<sub>[⇧ back to top](#contents)</sub>
-
-## 🔗 Broken Links
-
-Dead Link Checker
-- https://www.deadlinkchecker.com/
-
-Broken Link Checker
-- https://ahrefs.com/broken-link-checker
-
-<sub>[⇧ back to top](#contents)</sub>
-
-## ♿ Accessibility
-
-WAVE Web Accessibility Evaluation Tool
-- https://wave.webaim.org/
+- Whois Domain Record
+  https://whois.domaintools.com/example.com
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -126,4 +94,4 @@ WAVE Web Accessibility Evaluation Tool
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Christian Oliff](https://christianoliff.com) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Christian Oliff](https://example.com) has waived all copyright and related or neighboring rights to this work.

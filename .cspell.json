@@ -1,0 +1,16 @@
+{
+  "version": "0.2",
+  "words": [
+    "Ahrefs",
+    "coliff",
+    "HSTS",
+    "Whois",
+    "ZIZMOR"
+  ],
+  "language": "en,en-US",
+  "allowCompoundWords": true,
+  "ignorePaths": [
+    ".cspell.json"
+  ],
+  "useGitignore": true
+}
