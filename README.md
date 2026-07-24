@@ -90,6 +90,9 @@ Test SSL, security headers and more
 OpenGraph (Facebook Login required)
 - https://developers.facebook.com/tools/debug/sharing/
 
+Meta Tag Checker
+- https://meta-tag-checker.appsnap.co.uk/
+
 Google Rich Results Test
 - https://search.google.com/test/rich-results
 
