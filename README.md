@@ -34,6 +34,9 @@ Auditing, performance metrics, and best practices for Progressive Web Apps (Chro
 Accessibility, security, interoperability and more
 - https://webhint.io/#scanner-input
 
+GDPR, cookie banner, accessibility and legal-page compliance scan for EU and UK small-business sites; free scan returns a risk score and issue counts
+- https://trustyourwebsite.com
+
 <sub>[⇧ back to top](#contents)</sub>
 
 ## 📐 Design & Layout
