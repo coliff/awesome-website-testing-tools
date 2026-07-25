@@ -63,6 +63,9 @@ GTMetrix PageSpeed Score
 DebugBear Website Speed Test
 - https://www.debugbear.com/test/website-speed
 
+PrerenderBuddy Tools
+- https://prerenderbuddy.com/tools
+
 
 <sub>[⇧ back to top](#contents)</sub>
 
