@@ -63,6 +63,9 @@ GTMetrix PageSpeed Score
 DebugBear Website Speed Test
 - https://www.debugbear.com/test/website-speed
 
+Compare raw HTML with a browser-rendered view to find content, links, or metadata added only after JavaScript runs.
+- https://mydentify.com/tools/javascript-seo-render-checker
+
 
 <sub>[⇧ back to top](#contents)</sub>
 
