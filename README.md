@@ -110,7 +110,10 @@ Bing Webmaster Mobile Friendliness Test Tool
 Dead Link Checker
 - https://www.deadlinkchecker.com/
 
-Broken Link Checker
+Broken Link Checker (Chrome extension)
+- https://chromewebstore.google.com/detail/broken-link-checker/cipdlgmjblnniiicohcmcafcncippbha
+
+Ahrefs Broken Link Checker
 - https://ahrefs.com/broken-link-checker
 
 <sub>[⇧ back to top](#contents)</sub>
