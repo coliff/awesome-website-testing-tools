@@ -63,6 +63,9 @@ GTMetrix PageSpeed Score
 DebugBear Website Speed Test
 - https://www.debugbear.com/test/website-speed
 
+Mydentify JavaScript SEO Render Checker
+- https://mydentify.com/tools/javascript-seo-render-checker
+
 
 <sub>[⇧ back to top](#contents)</sub>
 
