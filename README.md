@@ -83,6 +83,9 @@ Security Headers
 Test SSL, security headers and more
 - https://observatory.mozilla.org/
 
+WordPress Security & Health Check
+- https://shiftpress.ai/wp-check
+
 <sub>[⇧ back to top](#contents)</sub>
 
 ## 🙂 Social Media Tags and Schema Markup
