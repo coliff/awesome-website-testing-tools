@@ -34,6 +34,9 @@ Auditing, performance metrics, and best practices for Progressive Web Apps (Chro
 Accessibility, security, interoperability and more
 - https://webhint.io/#scanner-input
 
+Legal and accessibility compliance scan for European small-business sites, checked against each country's own rules (German Impressum, French mentions légales, UK PECR) plus WCAG via axe-core; free scan returns a risk score and issue counts
+- https://trustyourwebsite.com/eu/en
+
 <sub>[⇧ back to top](#contents)</sub>
 
 ## 📐 Design & Layout
