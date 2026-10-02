@@ -63,6 +63,9 @@ GTMetrix PageSpeed Score
 DebugBear Website Speed Test
 - https://www.debugbear.com/test/website-speed
 
+PageSpeed.ONE - Page speed monitoring with daily synthetic tests and current and historical CrUX field data for Core Web Vitals.
+- https://pagespeed.one/en
+
 
 <sub>[⇧ back to top](#contents)</sub>
 
