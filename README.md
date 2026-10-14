@@ -40,6 +40,7 @@ Accessibility, security, interoperability and more
 
 Responsive Layout
 - https://www.browserstack.com/responsive
+- https://responsivetool.com/
 
 Cross Browser Testing
 - https://www.browserstack.com/screenshots
