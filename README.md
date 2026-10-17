@@ -25,6 +25,9 @@ Browser extension that tests for SEO, speed and security best practices. Crawls 
 Markup Validation
 - https://validator.w3.org
 
+XML Sitemap Validation, Metadata Coverage, and Sampled URL Status Checks
+- https://sitemapkit.com/tools/sitemap-checker
+
 Performance, SEO, Social, Links, Popularity
 - https://insites.com/
 
