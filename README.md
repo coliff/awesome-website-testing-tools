@@ -42,6 +42,9 @@ Responsive Layout
 - https://www.browserstack.com/responsive
 - https://responsivetool.com/
 
+Responsive Content Tester — test pasted HTML with longer content and compare layout at multiple widths
+- https://benjaminolsen.dev/responsive-content-tester/
+
 Cross Browser Testing
 - https://www.browserstack.com/screenshots
 
