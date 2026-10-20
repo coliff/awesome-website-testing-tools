@@ -34,6 +34,9 @@ Auditing, performance metrics, and best practices for Progressive Web Apps (Chro
 Accessibility, security, interoperability and more
 - https://webhint.io/#scanner-input
 
+SEO site audit: Site Health score, page speed, broken links, missing meta tags and AI-search readiness (free audit plan)
+- https://seonix.ai/
+
 <sub>[⇧ back to top](#contents)</sub>
 
 ## 📐 Design & Layout
