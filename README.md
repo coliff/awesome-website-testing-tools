@@ -34,6 +34,9 @@ Auditing, performance metrics, and best practices for Progressive Web Apps (Chro
 Accessibility, security, interoperability and more
 - https://webhint.io/#scanner-input
 
+Test how a site behaves for visitors on other browsers, devices, languages and timezones (Chrome/Firefox extension)
+- https://spoof-me.com/
+
 <sub>[⇧ back to top](#contents)</sub>
 
 ## 📐 Design & Layout
