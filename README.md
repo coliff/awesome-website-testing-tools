@@ -34,6 +34,9 @@ Auditing, performance metrics, and best practices for Progressive Web Apps (Chro
 Accessibility, security, interoperability and more
 - https://webhint.io/#scanner-input
 
+Audits a site for SEO, performance, accessibility, and security issues, then opens the fixes as a real GitHub pull request instead of just a report
+- https://mergefix.com
+
 <sub>[⇧ back to top](#contents)</sub>
 
 ## 📐 Design & Layout
