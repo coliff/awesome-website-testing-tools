@@ -19,31 +19,18 @@ Resource of web-based testing tools
 
 ## 💻 General & Multipurpose
 
-Browser extension that tests for SEO, speed and security best practices. Crawls your site checking multiple pages at once.
-- https://a.paddle.com/v2/click/33762/34995?link=1044
-
 Markup Validation
 - https://validator.w3.org
 
-Performance, SEO, Social, Links, Popularity
-- https://insites.com/
-
 Auditing, performance metrics, and best practices for Progressive Web Apps (Chrome Devtools and Chrome extension)
 - https://github.com/GoogleChrome/lighthouse
-
-Accessibility, security, interoperability and more
-- https://webhint.io/#scanner-input
 
 <sub>[⇧ back to top](#contents)</sub>
 
 ## 📐 Design & Layout
 
 Responsive Layout
-- https://www.browserstack.com/responsive
 - https://responsivetool.com/
-
-Cross Browser Testing
-- https://www.browserstack.com/screenshots
 
 <sub>[⇧ back to top](#contents)</sub>
 
