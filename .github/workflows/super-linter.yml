@@ -27,7 +27,7 @@ jobs:
           persist-credentials: false
 
       - name: Lint Code Base
-        uses: super-linter/super-linter/slim@4ce20838b8ab83717e78138c5b3a1407148e0918 # v8.7.0
+        uses: super-linter/super-linter/slim@2da136927bd4a73596db63044b504547c62cb854 # v9.0.0
         env:
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -38,7 +38,6 @@ jobs:
           VALIDATE_BIOME_LINT: false
           VALIDATE_CHECKOV: false
           VALIDATE_GIT_COMMITLINT: false
-          VALIDATE_GITHUB_ACTIONS_ZIZMOR: false
           VALIDATE_MARKDOWN: false
           VALIDATE_MARKDOWN_PRETTIER: false
           VALIDATE_NATURAL_LANGUAGE: false
