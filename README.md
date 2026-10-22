@@ -31,6 +31,7 @@ Auditing, performance metrics, and best practices for Progressive Web Apps (Chro
 
 Responsive Layout
 - https://responsivetool.com/
+- https://curlshot.com/tools/mobile-screenshot
 
 <sub>[⇧ back to top](#contents)</sub>
 
