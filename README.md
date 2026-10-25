@@ -105,6 +105,9 @@ Broken Link Checker
 
 ## ♿ Accessibility
 
+PDF/UA accessibility check for PDF files and PDF links, with the veraPDF reference validator (free check; downloading an auto-fixed file is paid)
+- https://nyo-agentti.github.io/pdf.html
+
 WAVE Web Accessibility Evaluation Tool
 - https://wave.webaim.org/
 
