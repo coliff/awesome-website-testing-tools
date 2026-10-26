@@ -71,6 +71,9 @@ Security Headers
 Test SSL, security headers and more
 - https://observatory.mozilla.org/
 
+Free Site Audit (16 checks, each failure links to a fix page)
+- https://kevindurant735rocket-creator.github.io/ks-audit-bot/
+
 <sub>[⇧ back to top](#contents)</sub>
 
 ## 🙂 Social Media Tags and Schema Markup
@@ -107,6 +110,9 @@ Broken Link Checker
 
 WAVE Web Accessibility Evaluation Tool
 - https://wave.webaim.org/
+
+Image Alt Auditor (flags filename alt, generic alt, missing alt, and empty alt inside links)
+- https://kevindurant735rocket-creator.github.io/freetoolkit-en/t/img-alt-auditor.html
 
 <sub>[⇧ back to top](#contents)</sub>
 
