@@ -19,20 +19,11 @@ Resource of web-based testing tools
 
 ## 💻 General & Multipurpose
 
-Browser extension that tests for SEO, speed and security best practices. Crawls your site checking multiple pages at once.
-- https://a.paddle.com/v2/click/33762/34995?link=1044
-
 Markup Validation
 - https://validator.w3.org
 
-Performance, SEO, Social, Links, Popularity
-- https://insites.com/
-
 Auditing, performance metrics, and best practices for Progressive Web Apps (Chrome Devtools and Chrome extension)
 - https://github.com/GoogleChrome/lighthouse
-
-Accessibility, security, interoperability and more
-- https://webhint.io/#scanner-input
 
 Launch readiness audit: SEO, performance, social previews, analytics, security and indexing (free, no signup)
 - https://postlaunchkit.com
@@ -42,10 +33,7 @@ Launch readiness audit: SEO, performance, social previews, analytics, security a
 ## 📐 Design & Layout
 
 Responsive Layout
-- https://www.browserstack.com/responsive
-
-Cross Browser Testing
-- https://www.browserstack.com/screenshots
+- https://responsivetool.com/
 
 <sub>[⇧ back to top](#contents)</sub>
 
