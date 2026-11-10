@@ -25,6 +25,9 @@ Markup Validation
 Auditing, performance metrics, and best practices for Progressive Web Apps (Chrome Devtools and Chrome extension)
 - https://github.com/GoogleChrome/lighthouse
 
+Launch readiness audit: SEO, performance, social previews, analytics, security and indexing (free, no signup)
+- https://postlaunchkit.com
+
 <sub>[⇧ back to top](#contents)</sub>
 
 ## 📐 Design & Layout
