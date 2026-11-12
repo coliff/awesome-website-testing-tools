@@ -25,6 +25,9 @@ Markup Validation
 Auditing, performance metrics, and best practices for Progressive Web Apps (Chrome Devtools and Chrome extension)
 - https://github.com/GoogleChrome/lighthouse
 
+XML Sitemap Validation (paste the sitemap)
+- https://pastezap.com/tools/xml-sitemap-validator/
+
 <sub>[⇧ back to top](#contents)</sub>
 
 ## 📐 Design & Layout
