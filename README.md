@@ -84,6 +84,9 @@ Google Rich Results Test
 Pinterest Rich Pins Validator
 - https://developers.pinterest.com/tools/url-debugger/
 
+Open Graph and social card checker (no login, shows the real tags and share image of a public page)
+- https://radarmakers.com/tools/social-card-preview
+
 <sub>[⇧ back to top](#contents)</sub>
 
 ## 📱 Mobile Friendliness
