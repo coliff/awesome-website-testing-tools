@@ -71,6 +71,9 @@ Security Headers
 Test SSL, security headers and more
 - https://observatory.mozilla.org/
 
+Public TLS, security header and email configuration check (free; full scans require domain verification and a paid plan)
+- https://glarion.app/
+
 <sub>[⇧ back to top](#contents)</sub>
 
 ## 🙂 Social Media Tags and Schema Markup
