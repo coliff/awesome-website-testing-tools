@@ -25,6 +25,9 @@ Markup Validation
 Auditing, performance metrics, and best practices for Progressive Web Apps (Chrome Devtools and Chrome extension)
 - https://github.com/GoogleChrome/lighthouse
 
+Pre-launch checks for broken links, HTTPS, redirects, meta tags, noindex, robots.txt and sitemap (open-source command line tool)
+- https://github.com/digitalcaveuk/site-preflight
+
 <sub>[⇧ back to top](#contents)</sub>
 
 ## 📐 Design & Layout
