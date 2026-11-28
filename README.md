@@ -84,6 +84,9 @@ Google Rich Results Test
 Pinterest Rich Pins Validator
 - https://developers.pinterest.com/tools/url-debugger/
 
+Schema.org JSON-LD Structured Data Validator
+- https://czoa.com/tools/schema-org-validator
+
 <sub>[⇧ back to top](#contents)</sub>
 
 ## 📱 Mobile Friendliness
