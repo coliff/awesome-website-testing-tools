@@ -25,6 +25,12 @@ Markup Validation
 Auditing, performance metrics, and best practices for Progressive Web Apps (Chrome Devtools and Chrome extension)
 - https://github.com/GoogleChrome/lighthouse
 
+White Label SEO Report (free 14-rule technical SEO audit for up to 9 pages with printable PDF export)
+- https://whitelabelseoreport.com/
+
+Generative Engine Optimization Checker (free robots.txt AI crawler, schema, and AI-answer readiness audit)
+- https://generativeengineoptimizationservice.com/
+
 <sub>[⇧ back to top](#contents)</sub>
 
 ## 📐 Design & Layout
